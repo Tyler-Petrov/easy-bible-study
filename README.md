@@ -1,22 +1,24 @@
 # easy-bible-study README
 
-This is the README for your extension "easy-bible-study". After writing up a brief description, we recommend including the following sections.
+This vscode extension is for making Bible Studies a bit easier. This extension only effects .devo files.
+Whenever a Bible reference is typed into a .devo file, it will be highlighted. When the user hovers it, there will be a 
+context window that shows the scripture text, and some cross references.
 
-## Features
+<!-- ## Features
 
 Describe specific features of your extension including screenshots of your extension in action. Image paths are relative to this README file.
 
 For example if there is an image subfolder under your extension project workspace:
 
-\!\[feature X\]\(images/feature-x.png\)
+\!\[feature X\]\(images/feature-x.png\) -->
 
 > Tip: Many popular extensions utilize animations. This is an excellent way to show off your extension! We recommend short, focused animations that are easy to follow.
 
-## Requirements
+<!-- ## Requirements
 
-If you have any requirements or dependencies, add a section describing those and how to install and configure them.
+If you have any requirements or dependencies, add a section describing those and how to install and configure them. -->
 
-## Extension Settings
+<!-- ## Extension Settings
 
 Include if your extension adds any VS Code settings through the `contributes.configuration` extension point.
 
@@ -64,4 +66,4 @@ You can author your README using Visual Studio Code.  Here are some useful edito
 
 **Enjoy!**
 # easy-bible-study
-# easy-bible-study
+# easy-bible-study -->
