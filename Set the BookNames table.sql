@@ -1,6 +1,6 @@
 -- delete from BookNames;
 
--- Run the python script to set the Book Name Abriviations
+-- Run the python script to set the Book Name Abbreviations
 
 -- INSERT INTO BookNames (Book_id, Name)
 -- SELECT Id, Name FROM Books;
