@@ -7,3 +7,6 @@ All notable changes to the "easy-bible-study" extension will be documented in th
 <!-- ## [Unreleased]
 
 - Initial release -->
+
+## [1.0.1] - 2023-08-25
+- Word wrap is on by default for .devo files
